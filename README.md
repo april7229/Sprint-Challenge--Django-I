@@ -11,6 +11,7 @@ The steps to deploy (at a high level) are:
 
 1. Sign up for [Heroku](https://www.heroku.com/)
 2. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
 3. From your terminal, `heroku login`
 4. Get to your project/repo directory
 5. Install new dependencies. (If using `virtualenv`, use `pip install` as you have been, or migrate to `pipenv`.)
